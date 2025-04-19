@@ -7,7 +7,7 @@ Data files are stored within this repository with the exception of the fine-tune
 ## Installing Requirements
 Navigate to the root directory. Then run the following command to install package requirements
 
-`pip install -r /path/to/requirements.txt`
+`pip install -r requirements.txt`
 
 ## Figures and Tables
 
