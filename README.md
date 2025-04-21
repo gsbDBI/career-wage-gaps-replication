@@ -2,7 +2,8 @@
 Public replication repository for "Estimating Wage Disparities Using Foundation Models"
 
 ## Data Setup
-Data files are stored within the `data` directory in this repository with the exception of the fine-tuned model predictions which are under the Sherlock computing cluster `$OAK/career-wage-gaps/data_for_analysis`. Download `$OAK/career-wage-gaps/data_for_analysis/master_dataset_gender-1990-2019_1-16.csv` and save into the `data` directory in the root repository. 
+Data files are stored within the `data` directory in this repository with the exception of the fine-tuned model predictions which can be [downloaded from this link](https://drive.google.com/file/d/1e8OSAaFjN1QQ2lf8n3fy9Zv7g3uTzptr/view?usp=share_link). Download, unzip, and save into the `data` directory in the root repository.
+Note: For Stanford users, they are also are under the Sherlock computing cluster `$OAK/career-wage-gaps/data_for_analysis`. Download `$OAK/career-wage-gaps/data_for_analysis/master_dataset_gender-1990-2019_1-16.csv`. 
 
 ## Installing Requirements
 Navigate to the root directory. Then run the following command to install package requirements
